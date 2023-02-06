@@ -17,9 +17,7 @@ body {
 .icon:hover > .bar {
     display: flex;
     z-index: 1;
-   
 
-   
 }
 .icon:hover {
     
